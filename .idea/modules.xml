@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Activite pratique 4 et 5.iml" filepath="$PROJECT_DIR$/.idea/Activite pratique 4 et 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecom-backend-app/config-service/config-service.iml" filepath="$PROJECT_DIR$/ecom-backend-app/config-service/config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecom-backend-app/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/ecom-backend-app/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecom-backend-app/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/ecom-backend-app/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecom-backend-app/inventory-service/inventory-service.iml" filepath="$PROJECT_DIR$/ecom-backend-app/inventory-service/inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecom-backend-app/order-service/order-service.iml" filepath="$PROJECT_DIR$/ecom-backend-app/order-service/order-service.iml" />
+    </modules>
+  </component>
+</project>
